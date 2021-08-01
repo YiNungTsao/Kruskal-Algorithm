@@ -1,0 +1,4 @@
+C:\Users\MB606\Desktop\Project\Project\Course\109下\0853337_曹議濃_HW6\0853337_曹議濃_HW6\bin\Debug\0853337_曹議濃_HW6.exe
+C:\Users\MB606\Desktop\Project\Project\Course\109下\0853337_曹議濃_HW6\0853337_曹議濃_HW6\bin\Debug\0853337_曹議濃_HW6.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\109下\0853337_曹議濃_HW6\0853337_曹議濃_HW6\obj\x86\Debug\0853337_曹議濃_HW6.exe
+C:\Users\MB606\Desktop\Project\Project\Course\109下\0853337_曹議濃_HW6\0853337_曹議濃_HW6\obj\x86\Debug\0853337_曹議濃_HW6.pdb
